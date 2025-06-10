@@ -18,5 +18,7 @@ with lower initial repeat purchase rates from these new customers
 For the limited set of 15 suppliers, determine which ones are linked to the products experiencing 
 the most severe availability gaps or quality issues (inferred from ReturnStatus) that impede smooth order fulfillment to the Port Harcourt market.
 
-
+---
+# Data Integration Model
+![**Fig: Data Integration Model of Supply chain system**](Images/dataintegrationmodel.png)
 

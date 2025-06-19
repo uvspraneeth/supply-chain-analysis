@@ -1,6 +1,4 @@
-CREATE OR REPLACE PROCEDURE load_bronze()
-LANGUAGE plpgsql
-AS $$
+CREATE OR REPLACE PROCEDURE load_bronze () LANGUAGE plpgsql AS $$
 DECLARE 
 	start_time TIMESTAMP;
 	end_time TIMESTAMP;
@@ -64,4 +62,4 @@ BEGIN
 END;
 $$;
 
-CALL load_bronze();
+CALL load_bronze ();

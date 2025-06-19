@@ -1,5 +1,4 @@
 -- bronze layer ddl
-
 -- drop and create table bronze.supplier
 DROP TABLE IF EXISTS bronze.suppliers;
 

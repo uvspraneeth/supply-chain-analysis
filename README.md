@@ -17,6 +17,12 @@ with lower initial repeat purchase rates from these new customers
 3. **Identify Top Supplier-Related Fulfillment Constraints**: 
 For the limited set of 15 suppliers, determine which ones are linked to the products experiencing 
 the most severe availability gaps or quality issues (inferred from ReturnStatus) that impede smooth order fulfillment to the Port Harcourt market.
-
-
+---
+# Data Integration Model
+<p align="center">
+  <img src="./images/dataintegrationmodel.png" alt="Model Architecture" width="600"/>
+</p>
+<p align="center">
+  <em><code>fig: Data Integration Model of Supply chain</code></em>
+</p>
 
